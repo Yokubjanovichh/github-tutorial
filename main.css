@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  height: 100vh;
+}
+.ota {
+  width: 1100px;
+  height: auto;
+  margin: 1rem auto;
+}
+.ota .chiziq {
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+
+.ota .chiziq .ch1 {
+  width: 20%;
+  height: 5px;
+  background-color: red;
+}
+.ota .chiziq .ch2 {
+  width: 80%;
+  height: 5px;
+  background-color: gray;
+}
+.ota .btn {
+  height: auto;
+  display: flex;
+}
+.ota .btn .btn1 {
+  width: 30px;
+  height: 30px;
+  color: rgb(100, 103, 105);
+  background-color: rgb(63, 59, 59);
+  border: none;
+}
+.ota .btn .btn2 {
+  width: 30px;
+  height: 30px;
+  color: white;
+  background-color: rgb(63, 59, 59);
+}
+.ota .blok {
+  width: 270px;
+  height: auto;
+  border: 1px solid gray;
+  padding: 5px;
+}
+.ota .blok img {
+  width: 250px;
+  height: 300px;
+}
+
+.ota .blok .lorem {
+  font-size: 18px;
+  color: gray;
+  margin-bottom: 5px;
+}
+.ota .blok .narx {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ota .blok .narx .delet {
+  font-size: 16px;
+  color: gray;
+  margin-top: 5px;
+}
+.ota .blok .narx .skidka {
+  font-size: 20px;
+  color: black;
+  margin-left: 10px;
+}
+.ota .blok .cart img {
+  width: 20px;
+  height: 20px;
+}
+.ota .blok .cart button {
+  width: 150px;
+  margin-left: 50px;
+}
+
+.ota .wrap2 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.ota .wrap2 .blok .star {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chap {
+  width: 60px;
+  height: 1px;
+  border-radius: 5px;
+  background-color: gray;
+}
+
+.star p {
+  margin: 0;
+}
+.lorem {
+  text-align: center;
+}
+
+.ota .wrap2 .blok .star .yulduz {
+  color: gold;
+  font-size: 20px;
+}
+
+.ota .wrap2 .blok .narx {
+  margin-bottom: 10px;
+}
+
+.ota .sralvha {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

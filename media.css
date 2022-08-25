@@ -1,0 +1,108 @@
+@media (min-width: 0px) and (max-width: 446.9px) {
+  .ota {
+    width: 100%;
+    display: block;
+  }
+
+  .ota .btn button {
+    display: none;
+  }
+
+  .ota .chiziq .ch2 {
+    background-color: red;
+  }
+
+  .ota .wrap2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ota .wrap2 .blok {
+    margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 447px) and (max-width: 768.9px) {
+  .ota {
+    width: 100%;
+    display: block;
+  }
+
+  .ota .btn button {
+    display: none;
+  }
+
+  .ota .chiziq .ch2 {
+    background-color: red;
+  }
+
+  .ota .wrap2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ota .wrap2 .blok {
+    margin-bottom: 10px;
+  }
+
+  .ota .sralvha h1 {
+    width: 100%;
+    text-align: center;
+  }
+}
+@media (min-width: 769px) and (max-width: 989.9px) {
+  .ota {
+    width: 100%;
+  }
+
+  .ota .wrap2 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .ota .wrap2 .blok {
+    margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 990px) and (max-width: 1199.9px) {
+  .ota {
+    width: 100%;
+  }
+
+  .ota .wrap2 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .ota .wrap2 .blok {
+    margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 3600px) {
+    .ota {
+      width: 1100px;
+    }
+  
+    .ota .wrap2 {
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+  
+    .ota .wrap2 .blok {
+      margin-bottom: 10px;
+    }
+  }
+  
